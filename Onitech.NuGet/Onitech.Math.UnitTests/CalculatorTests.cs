@@ -11,7 +11,7 @@ namespace Onitech.Math.UnitTests
 {
     public class CalculatorTests
     {
-        private static Fixture Fixture = new Fixture();
+        private static readonly Fixture Fixture = new Fixture();
 
         [Test]
         public void Sum_of_two_numbers_are_equal_sum_of_the_two_numbers()

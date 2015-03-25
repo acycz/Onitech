@@ -1,5 +1,0 @@
-C:\aGIT\Onitech\Onitech.NuGet\Onitech.Math\bin\Debug\Onitech.Math.dll
-C:\aGIT\Onitech\Onitech.NuGet\Onitech.Math\bin\Debug\Onitech.Math.pdb
-C:\aGIT\Onitech\Onitech.NuGet\Onitech.Math\obj\Debug\Onitech.Math.csprojResolveAssemblyReference.cache
-C:\aGIT\Onitech\Onitech.NuGet\Onitech.Math\obj\Debug\Onitech.Math.dll
-C:\aGIT\Onitech\Onitech.NuGet\Onitech.Math\obj\Debug\Onitech.Math.pdb
